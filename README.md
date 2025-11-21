@@ -23,6 +23,8 @@ Herramientas, enlaces útiles y recursos adicionales.
 
 ## 🚀 Cómo usar este repositorio
 
+**📖 ¿Primera vez aquí? Lee la [Guía de Inicio Rápido](./INICIO_RAPIDO.md)**
+
 1. **Navega** por las carpetas según el tema de tu interés
 2. **Clona** el repositorio para tener acceso local:
    ```bash
