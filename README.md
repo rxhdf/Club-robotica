@@ -2,6 +2,8 @@
 
 ¡Bienvenido al repositorio del Club de Robótica! 🤖
 
+**Arduino**
+
 Este repositorio contiene materiales y recursos educativos para estudiantes interesados en programación, inteligencia artificial y matemáticas.
 
 ## 📚 Contenido
