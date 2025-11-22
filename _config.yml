@@ -9,5 +9,6 @@ just_the_docs:
     heading_level: 2
 
 # Parámetros generales
-color_scheme: "dark"      # o "dark" si prefieres oscuro
+color_scheme: "dark"     
 logo: "/assets/images/fig_1_college_bronze_dec22-2118306312.png"   
+
