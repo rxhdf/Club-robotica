@@ -1,4 +1,4 @@
-title: "Taller de Robótica, IA, Matemáticas y Programación"
+title: "Taller de Robótica"
 description: "Recursos, documentación y contenido educativo del taller."
 remote_theme: just-the-docs/just-the-docs
 
@@ -10,3 +10,4 @@ just_the_docs:
 
 # Parámetros generales
 color_scheme: "dark"      # o "dark" si prefieres oscuro
+logo: "/assets/images/fig_1_college_bronze_dec22-2118306312.png"   
