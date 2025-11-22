@@ -1,3 +1,12 @@
-title: "Club de robotica"
-description: "Un club para aprender y compartir sobre robótica, matematicas y programcion"
-remote-theme: ust-the-docs/just-the-docs
+title: "Taller de Robótica, IA, Matemáticas y Programación"
+description: "Recursos, documentación y contenido educativo del taller."
+remote_theme: just-the-docs/just-the-docs
+
+# Habilita búsqueda
+just_the_docs:
+  search_enabled: true
+  search:
+    heading_level: 2
+
+# Parámetros generales
+color_scheme: "dark"      # o "dark" si prefieres oscuro
