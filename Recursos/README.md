@@ -22,6 +22,7 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 - **PowerShell**: Shell de Windows
 - **Bash**: Shell de Linux/Mac
 - **Oh My Zsh**: Framework para Zsh
+- **Fish**: Shell interactivo y amigable
 
 ## 📚 Plataformas de aprendizaje
 
@@ -37,7 +38,6 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Codewars](https://www.codewars.com/)
-- [Exercism](https://exercism.org/)
 - [Project Euler](https://projecteuler.net/)
 
 ### Competencias
@@ -51,7 +51,6 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 ### Lenguajes
 - [Python Docs](https://docs.python.org/3/)
 - [C++ Reference](https://en.cppreference.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
 
 ### Frameworks y librerías
 - [NumPy](https://numpy.org/doc/)
@@ -61,30 +60,9 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 - [Scikit-learn](https://scikit-learn.org/)
 
 ## 🎥 Canales de YouTube recomendados
-
-### General
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
-- [CS Dojo](https://www.youtube.com/c/CSDojo)
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
-
-### Python
-- [Corey Schafer](https://www.youtube.com/c/Coreyms)
-- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
-- [Tech With Tim](https://www.youtube.com/c/TechWithTim)
-
-### IA y Machine Learning
-- [Sentdex](https://www.youtube.com/c/sentdex)
-- [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai)
-- [StatQuest](https://www.youtube.com/c/joshstarmer)
-
-### Matemáticas
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Khan Academy](https://www.youtube.com/c/khanacademy)
-- [Numberphile](https://www.youtube.com/c/numberphile)
-
-### C++
-- [The Cherno](https://www.youtube.com/c/TheChernoProject)
-- [CppCon](https://www.youtube.com/c/CppCon)
 
 ## 📝 Blogs y artículos
 
@@ -99,18 +77,6 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 - [Google Scholar](https://scholar.google.com/)
 - [Papers With Code](https://paperswithcode.com/)
 
-## 🌐 Comunidades
-
-### Foros
-- [Stack Overflow](https://stackoverflow.com/)
-- [Reddit - r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
-- [Reddit - r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-- [Reddit - r/cpp](https://www.reddit.com/r/cpp/)
-
-### Discord y Slack
-- Python Discord
-- C++ Slack
-- ML/AI communities
 
 ## 🔧 Herramientas útiles
 
@@ -122,11 +88,6 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 ### Colaboración
 - [Google Colab](https://colab.research.google.com/)
 - [Notion](https://www.notion.so/)
-- [Trello](https://trello.com/)
-
-### Regex y testing
-- [Regex101](https://regex101.com/)
-- [RegExr](https://regexr.com/)
 
 ### APIs y datos
 - [Postman](https://www.postman.com/)
@@ -156,13 +117,6 @@ Esta carpeta contiene recursos adicionales, herramientas útiles y enlaces de re
 ### Matemáticas
 - "Mathematics for Machine Learning" por Deisenroth, Faisal, Ong
 - "Linear Algebra Done Right" por Sheldon Axler
-
-## 🎓 Certificaciones
-
-- **Python**: PCEP, PCAP (Python Institute)
-- **Machine Learning**: Coursera ML Specializations
-- **Cloud**: AWS, Google Cloud, Azure certifications
-- **Data Science**: IBM Data Science Professional Certificate
 
 ## 💡 Consejos generales
 

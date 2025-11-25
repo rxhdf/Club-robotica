@@ -147,50 +147,6 @@ import pandas as pd          # Análisis de datos
 5. Control PID
 6. Filtros (Kalman, partículas)
 
-## 💡 Ejercicios prácticos
-
-### Álgebra Lineal
-```python
-import numpy as np
-
-# Crear matrices
-A = np.array([[1, 2], [3, 4]])
-B = np.array([[5, 6], [7, 8]])
-
-# Operaciones
-C = A @ B  # Multiplicación de matrices
-det_A = np.linalg.det(A)  # Determinante
-inv_A = np.linalg.inv(A)  # Inversa
-eigenvalues, eigenvectors = np.linalg.eig(A)  # Valores propios
-```
-
-### Cálculo numérico
-```python
-from scipy import integrate, optimize
-
-# Integración numérica
-resultado, error = integrate.quad(lambda x: x**2, 0, 1)
-
-# Encontrar mínimo de una función
-minimum = optimize.minimize(lambda x: x**2 + 3*x + 2, x0=0)
-```
-
-### Visualización
-```python
-import matplotlib.pyplot as plt
-import numpy as np
-
-x = np.linspace(-10, 10, 100)
-y = np.sin(x)
-
-plt.plot(x, y)
-plt.title('Función seno')
-plt.xlabel('x')
-plt.ylabel('sin(x)')
-plt.grid(True)
-plt.show()
-```
-
 ## 📝 Notación matemática común
 
 - **Vectores**: $\vec{v}$ o $\mathbf{v}$
