@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Club Robótica - Recursos Educativos
 
 ¡Bienvenido al repositorio del Club de Robótica! 🤖
@@ -49,3 +50,28 @@ Este repositorio está disponible para uso educativo.
 ## 📧 Contacto
 
 Para preguntas o sugerencias, abre un issue en este repositorio.
+=======
+# Club-robotica
+Resources, activitys and material from HIT course.
+
+**Topics**
+1. Python
+- Python fundamentals
+- Data manipulation and visualization
+- Machine learning
+- Guide project
+
+2. C++
+- C++ fundamentals
+- Object-oriented programming: Introduction
+- PCB's design
+- Digital signal processing
+
+3. Math
+- Math basics
+- Functions and graphics
+- Calculus introduction
+- Linear algebra
+- Probability and statistics basics
+- Discrete and logics fundamentals
+>>>>>>> 981a476b1814c658c334e8bf53f8784398c316b1
