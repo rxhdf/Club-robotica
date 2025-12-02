@@ -7,7 +7,7 @@ Este repositorio contiene materiales y recursos educativos para estudiantes inte
 
 ## 📚 Contenido
 
-### [Inteligencia Artificial (IA)]\(./IA)
+### [Inteligencia Artificial (IA)]
 Materiales sobre machine learning, deep learning, redes neuronales y aplicaciones de IA.
 
 ### [Python](./Python)
