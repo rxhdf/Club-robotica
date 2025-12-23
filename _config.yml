@@ -1,0 +1,14 @@
+title: "Taller de Robótica"
+description: "Recursos, documentación y contenido educativo del taller."
+remote_theme: just-the-docs/just-the-docs
+
+# Habilita búsqueda
+just_the_docs:
+  search_enabled: true
+  search:
+    heading_level: 2
+
+# Parámetros generales
+color_scheme: "dark"     
+logo: "/assets/images/fig_1_college_bronze_dec22-2118306312.png"   
+
